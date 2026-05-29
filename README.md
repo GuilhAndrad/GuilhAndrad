@@ -76,12 +76,7 @@ O backend só mudou as ferramentas.
 
 ## 💬 Final Thoughts
 
-> "Backend é igual cerca de fazenda:
+> "Programar é igual cerca de fazenda:
 > se a estrutura for ruim,
 > cedo ou tarde alguma coisa foge."
 
----
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="Bottom Line" width="100%" />
-</div>
