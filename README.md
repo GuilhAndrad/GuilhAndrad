@@ -19,10 +19,8 @@
 </p>
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/xngaCPIJV2YAAAAC/cow-money.gif" width="350px" />
+  <img width="441" height="498" alt="cow-money" src="https://github.com/user-attachments/assets/dc4c0774-522b-4960-9082-620b847ed971" />
 </p>
-
----
 
 ## 📌 About Me
 
@@ -37,8 +35,6 @@ Hoje desenvolvo sistemas focados em backend, arquitetura de APIs e aplicações 
 Enquanto muita gente da tecnologia sonha em largar tudo e ir pro campo,
 eu saio da fazenda, abro o notebook e começo outro tipo de problema.
 
----
-
 ## 🌾 From Farm to Backend
 
 A fazenda me ensinou:
@@ -51,8 +47,6 @@ A fazenda me ensinou:
 
 O backend só mudou as ferramentas.
 
----
-
 ## 🧠 Current Focus
 
 - REST APIs & Autenticação segura
@@ -61,15 +55,11 @@ O backend só mudou as ferramentas.
 - Docker & ambientes de desenvolvimento
 - Boas práticas, arquitetura e testes automatizados
 
----
-
 ## ⚙️ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=php,laravel,js,svelte,mysql,postgres,sqlite,redis,docker,git,linux,vscode" />
 </p>
-
----
 
 ## 📊 GitHub Stats
 
@@ -83,8 +73,6 @@ O backend só mudou as ferramentas.
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=GuilhAndrad&theme=prussian&hide_border=true" />
 </p>
-
----
 
 ## 💬 Final Thoughts
 
