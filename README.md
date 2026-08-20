@@ -6,12 +6,11 @@
 
 ### Full Stack Developer • Information Systems • Rural Producer
 
-Criador de gado e desenvolvedor Full Stack, com foco em backend, APIs e aplicações web.
 
 ## 🚀 Current Focus
 
 * Laravel & PHP
-* Svelte
+* Svelte/Vue
 * REST APIs
 * Docker
 * MySQL & PostgreSQL
