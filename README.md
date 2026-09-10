@@ -1,31 +1,69 @@
-<h1 align="center">
-  Hey 
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" height="30px" width="30px">
-  I'm Guilherme
-</h1>
+<div align="center">
 
-### Full Stack Developer • Information Systems • Rural Producer
+# Olá, eu sou Guilherme 👋
 
+### Desenvolvedor Back-end • Sistemas de Informação • Produtor Rural
 
-## 🚀 Current Focus
+Construindo APIs e sistemas web com foco em soluções simples, escaláveis e bem estruturadas.
 
-* Laravel & PHP
-* Svelte/Vue
-* REST APIs
-* Docker
-* MySQL & PostgreSQL
+<a href="https://www.linkedin.com/in/guilherme-andrade-904b2a33a">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-## ⚙️ Tech Stack
+</div>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,js,mysql,postgres,docker,git,linux,vscode" />
-</p>
+## 👨‍💻 Sobre mim
 
-## 📊 GitHub Stats
+Sou Desenvolvedor Back-end em início de carreira, graduado em Sistemas de Informação, com experiência prática no desenvolvimento de APIs REST e sistemas web.
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=GuilhAndrad&show_icons=true&theme=prussian&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=GuilhAndrad&layout=compact&theme=prussian"/>
-</p>
+Meu foco principal está em **TypeScript/NestJS** e **PHP/Laravel**, trabalhando com bancos de dados relacionais, Docker, testes automatizados e CI/CD.
 
-<p align="center"> <img width="441" height="498" alt="cow-money" src="https://github.com/user-attachments/assets/dc4c0774-522b-4960-9082-620b847ed971" /> </p>
+Também tenho experiência prática na gestão de negócio próprio no setor rural, o que fortaleceu minha capacidade de tomar decisões, resolver problemas e lidar com responsabilidades de ponta a ponta.
+
+## 🚀 Foco atual
+
+- Desenvolvimento de APIs REST
+- TypeScript & NestJS
+- PHP & Laravel
+- PostgreSQL & MySQL
+- Docker
+- Testes automatizados
+- GitHub Actions & CI/CD
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Back-end
+
+<img src="https://skillicons.dev/icons?i=ts,nestjs,nodejs,php,laravel" />
+
+### Banco de Dados & Infraestrutura
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,redis,docker" />
+
+### Ferramentas
+
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode" />
+
+</div>
+
+## 🧠 Práticas & Conceitos
+
+<div align="center">
+
+`REST APIs` · `SOLID` · `Clean Architecture` · `Testes Automatizados`
+
+`CI/CD` · `Git` · `Modelagem de Dados` · `Autenticação & Autorização`
+
+</div>
+
+## 🌐 Contato
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/guilherme-andrade-904b2a33a">
+  <img src="https://img.shields.io/badge/LinkedIn-Conecte--se%20comigo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+</div>
