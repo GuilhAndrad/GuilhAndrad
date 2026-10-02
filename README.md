@@ -16,14 +16,14 @@ Construindo APIs e sistemas web com foco em soluções simples, escaláveis e be
 
 Sou Desenvolvedor Back-end em início de carreira, graduado em Sistemas de Informação, com experiência prática no desenvolvimento de APIs REST e sistemas web.
 
-Meu foco principal está em **TypeScript/NestJS** e **PHP/Laravel**, trabalhando com bancos de dados relacionais, Docker, testes automatizados e CI/CD.
+Meu foco principal está em **C#/.NET** e **PHP/Laravel**, trabalhando com bancos de dados relacionais, Docker, testes automatizados e CI/CD.
 
 Também tenho experiência prática na gestão de negócio próprio no setor rural, o que fortaleceu minha capacidade de tomar decisões, resolver problemas e lidar com responsabilidades de ponta a ponta.
 
 ## 🚀 Foco atual
 
 - Desenvolvimento de APIs REST
-- TypeScript & NestJS
+- C# & .NET
 - PHP & Laravel
 - PostgreSQL & MySQL
 - Docker
@@ -36,7 +36,7 @@ Também tenho experiência prática na gestão de negócio próprio no setor rur
 
 ### Back-end
 
-<img src="https://skillicons.dev/icons?i=ts,nestjs,nodejs,php,laravel" />
+<img src="https://skillicons.dev/icons?i=ts,dotnet,cs,nodejs,php,laravel" />
 
 ### Banco de Dados & Infraestrutura
 
